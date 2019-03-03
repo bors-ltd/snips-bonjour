@@ -12,7 +12,7 @@ class ActionCanard(snips_common.ActionWrapper):
         preamble = random.choice(
             [
                 "",
-                "Ah oui, je la connais celle-là.",
+                "Ah oui, je la connais celle là.",
                 "Attendez, ça va me revenir...",
                 "On me l'a déjà racontée.",
             ]
