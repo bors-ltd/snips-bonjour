@@ -17,7 +17,7 @@ class ActionVu(snips_common.ActionWrapper):
                 "Vous avez pensé à sortir la bière en avance ?",
                 "Il reste encore des pistaches ?",
                 "Je finis un calcul et j'arrive.",
-                "Déjà ? Je n'ai pas vu le temps passer."
+                "Déjà ? Je n'ai pas vu le temps passer.",
                 "N'oubliez pas les croquettes de Théo.",
             ]
         )
